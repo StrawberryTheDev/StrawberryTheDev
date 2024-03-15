@@ -11,14 +11,10 @@
 [![Discord](https://img.shields.io/badge/Discord-straw%2Fberry-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourDiscordID)
 
 ## 🧑‍💻 About Me:
-- 🔭 I’m currently working on **various gaming and web projects**
-- 🌱 I’m currently learning **more about game development and advanced web design**
-- 👯 I’m looking to collaborate on **creative coding and design projects**
-- 🤔 I’m looking for help with **expanding my coding skills**
-- 💬 Ask me about **Lua, Python, JavaScript, HTML, and game design**
-- 📫 How to reach me: **Preferably on Discord (I'm there every day!)**
+- 🌱 I’m currently learning **more about software engineering and advanced web design**
+- 📫 How to reach me: **Preferably on Discord (I'm online every day!)**
 - 😄 Pronouns: **He/Him (GitHub), straw/berry (Discord)**
-- ⚡ Fun fact: **I'm a dedicated gamer who loves to explore new technologies**
+- ⚡ Fun fact: **I'm a true dedicated gamer who loves to explore new coding skills**
 
 ## 🛠 Skills:
 
